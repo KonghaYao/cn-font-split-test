@@ -1,0 +1,20 @@
+{
+    "name": "codespaces-blank",
+    "private": true,
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "init:n": "n 14 && n 16 && n 18 && n 20",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "n": "^9.1.0"
+    },
+    "dependencies": {
+        "@konghayao/cn-font-split": "^4.3.3",
+        "node-fetch": "^3.3.1"
+    }
+}
